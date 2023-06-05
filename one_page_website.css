@@ -1,0 +1,18 @@
+html {
+    font-family:sans-serif;
+    font-size: 62.5%
+}
+
+.form {
+    width: 60%;
+    margin: 0px auto;
+    border: 3px solid blue;
+    border-radius: 8px;
+}
+
+.form input[type="text"] {
+    width: 80%;
+    margin: 10px 1em;
+    border: 1px solid skyblue;
+    border-radius: 7px;
+}
